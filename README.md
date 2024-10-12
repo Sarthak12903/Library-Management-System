@@ -39,9 +39,6 @@ This is a Library Management System built using the **PERN stack** (PostgreSQL, 
 
 2. Install dependencies for both frontend and backend:
     ```bash
-    cd library-management-system
-    npm install
-    cd client
     npm install
     ```
 
@@ -50,13 +47,13 @@ This is a Library Management System built using the **PERN stack** (PostgreSQL, 
 
 4. Run the backend server:
     ```bash
-    cd ..
+    cd Backend
     npm run dev
     ```
 
 5. Run the frontend development server:
     ```bash
-    cd client
+    cd Frontend
     npm start
     ```
 
