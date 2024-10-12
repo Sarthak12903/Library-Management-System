@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chance": "^1.1.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "nanoid": "^5.0.7",
+    "node-pg-migrate": "^7.7.0",
+    "pg": "^8.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
